@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/spannbeton/static/css/main.e6c13ad2.css",
-    "main.js": "/spannbeton/static/js/main.c63d0719.js",
+    "main.js": "/spannbeton/static/js/main.abb6e9d0.js",
     "static/js/453.38fed3af.chunk.js": "/spannbeton/static/js/453.38fed3af.chunk.js",
     "index.html": "/spannbeton/index.html",
     "main.e6c13ad2.css.map": "/spannbeton/static/css/main.e6c13ad2.css.map",
-    "main.c63d0719.js.map": "/spannbeton/static/js/main.c63d0719.js.map",
+    "main.abb6e9d0.js.map": "/spannbeton/static/js/main.abb6e9d0.js.map",
     "453.38fed3af.chunk.js.map": "/spannbeton/static/js/453.38fed3af.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.c63d0719.js"
+    "static/js/main.abb6e9d0.js"
   ]
 }
