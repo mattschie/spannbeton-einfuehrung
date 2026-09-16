@@ -38,6 +38,9 @@ erforderliche Bewehrung.
 Die App ist als Lehr-/Visualisierungswerkzeug gedacht, nicht als
 Bemessungssoftware für reale Bauvorhaben.
 
+## Verwendung
+Verwendung der App auf http://www.schiewerling.de/spannbeton-einfuehrung
+
 ## Technik
 
 - React (Hooks: `useState`, `useMemo`)
